@@ -38,7 +38,7 @@ public class FindUniqueNumberArray
 	}
 	public static int returnUniqeu(int a[]){
 	int size=a.length;
-	//with n square complexity 
+	//with the complexity BigO(n2) 
 	for(int i=0;i<size;i++){
 	 for( int j=0;j<size;j++){
 	 if (i !=j && a[i]==a[j])
