@@ -2,6 +2,8 @@ import java.util.*;
 /*
 Google  Interview Problem 
 
+@Author  : Rajesh Thokala
+Date	 : 16/02/2020
 1. Given an integer array of size 2N+1 
 In this given array ,N numbers are represented twice and 
 once number represented only once in the array .
